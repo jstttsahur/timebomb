@@ -1,0 +1,8 @@
+@off
+echo WARNING: SYSTEM VIRUS DETECTED!
+echo Malicious software is attempting to corrupt system files.
+echo.
+timeout /t 60
+echo.
+echo Just kidding! You've been pranked.
+pause
